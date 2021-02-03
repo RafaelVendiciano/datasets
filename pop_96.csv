@@ -1,0 +1,51 @@
+﻿"Tabela 305 - População residente em domicílios particulares permanentes por sexo do chefe do domicílio e situação"
+"Variável - População residente em domicílios particulares permanentes (Pessoas)"
+"Unidade da Federação","Situação do domicílio","Ano x Sexo do responsável pelo domicílio"
+"Unidade da Federação","Situação do domicílio","1996"
+"Unidade da Federação","Situação do domicílio","Total"
+"Rondônia","Total","1219702"
+"Acre","Total","480061"
+"Amazonas","Total","2376965"
+"Roraima","Total","240161"
+"Pará","Total","5466141"
+"Amapá","Total","376707"
+"Tocantins","Total","1037398"
+"Maranhão","Total","5205652"
+"Piauí","Total","2665787"
+"Ceará","Total","6781621"
+"Rio Grande do Norte","Total","2548745"
+"Paraíba","Total","3290081"
+"Pernambuco","Total","7361368"
+"Alagoas","Total","2611029"
+"Sergipe","Total","1616185"
+"Bahia","Total","12472894"
+"Minas Gerais","Total","16567989"
+"Espírito Santo","Total","2790206"
+"Rio de Janeiro","Total","13323919"
+"São Paulo","Total","33844339"
+"Paraná","Total","8942244"
+"Santa Catarina","Total","4844212"
+"Rio Grande do Sul","Total","9568523"
+"Mato Grosso do Sul","Total","1907853"
+"Mato Grosso","Total","2208665"
+"Goiás","Total","4478143"
+"Distrito Federal","Total","1806354"
+"Fonte: IBGE - Contagem da População "
+
+""
+"Legenda"
+"Símbolo","Significado"
+"-","Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0","Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X","Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..","Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...","Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)","Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
